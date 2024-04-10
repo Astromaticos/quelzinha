@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Declaração de Amor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 100px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #e91e63;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>te amo amor</h1>
+    </div> 
+    <div class="container">
+        <h1>Para Ana <3</h1>
+        <p>Eu só queria dizer o quanto eu te amo, Ana. Você é a luz da minha vida e a razão do meu sorriso. Cada momento ao seu lado é uma bênção, e eu sou eternamente grato por ter você comigo. Você é o meu mundo, e eu te amo mais do que as palavras podem expressar.</p>
+        <p>Com todo o meu amor,</p>
+        <p>Loirinho</p>
+    </div>
+
+    <img src="img/teen.jpg" height="400px" width="900px" ></img>
+</body>
+</html>
